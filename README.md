@@ -4,3 +4,10 @@ hint: this project made for udacity in DFND and based on tableau dashboard
 
 ## status 
 [![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://github.com/superbido/fav-moviewebsite/edit/master/README.md)
+ 
+ ## what have I done to make that project?
+ Interprets data visualization by making insights from wrangling large datasets
+ 
+ ## used tools 
+  - microsoft powerpoint 
+  - chrome
